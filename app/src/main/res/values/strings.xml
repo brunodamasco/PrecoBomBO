@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PrecoBomBO</string>
+    <string name="pre_o_justo">Preço Justo</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="digite_o_nome_do_produto">Digite o nome do produto</string>
+    <string name="valor_do_produto">Valor do Produto</string>
+    <string name="digite_o_valor_do_produto">Digite o valor do produto</string>
+    <string name="qtd_parcelas">Qtd. Parcelas</string>
+    <string name="quantidade_parcelas">Quantidade parcelas</string>
+    <string name="quantidade_juros">Quantidade juros</string>
+    <string name="qtd_juros">Qtd. Juros (%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="nome_invalido">Nome inválido</string>
+    <string name="valor_invalido">Valor inválido</string>
+    <string name="valor_invalido_parcela">Valor inválido para parcela</string>
+    <string name="valor_invalido_juros">Valor inválido para juros</string>
+</resources>
